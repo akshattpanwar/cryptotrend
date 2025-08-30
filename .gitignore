@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# API Keys (IMPORTANT!)
+config.py
+secrets.py
+.env
+
+# Large files
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: Keep your results to show off!
+# results/*.csv
+# results/*.png
